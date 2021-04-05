@@ -3,16 +3,22 @@
 - company: Ski Cellar Snowboard
   position: Ski and Boot Technician
   duration: Nov, 2014 &mdash; Present
-  summary: I am responsible for running the tech shop at a high-volume ski shop. My duties include training new techs, modifying client's ski boots to improve comfort, dealing with warranties and selling equipment when needed.
+  summary: I am the lead service technician for a large ski shop. My typical work includes adjusting and repearing skis, boots and bindings, and retail sales. I also train new techs and do maintenence around the shop. Some additional projects I have worked on include
+    <ul class="resume-item-list">
+      <li>Writing a script to filter duplicate and invalid customer emails exported from our legacy point of sale system</li>
+      <li>Developing a small mobile application for calculating ski binding settings</li>
+      <li>Helping design a program to generate price tag sheets for inventory</li>
+      <li>Installing and configuring a networked security camera system</li>
+    </ul>
 
 # NRC
 - company: National Research Council Canada
   position: Summer Research Student
   duration: May, 2020 &mdash; Sept, 2020
-  summary: During my internship I was tasked with developing a web based tool to allow researchers to vizualize and access astronomical data collected during the Next Generation Virgo Cluster Survey. My duties included
+  summary: I worked as a research student at NRC Herzberg and informally with the dev team at the Canadian Astronomy Data Centre (CADC). I was tasked with developing a tool to vizualize and access astronomical data collected during the Next Generation Virgo Cluster Survey (NGVS). My typical duties included 
     <ul class="resume-item-list">
-      <li>Weeklry requirement gathering from NGVS science team</li>
-      <li>Attending daily standups with the Canadian Astronomical Data Centre development team</li>
+      <li>Weekly requirement gathering with members NGVS science team</li>
+      <li>Attending daily standups with the CADC team</li>
       <li>Refactoring an existing flask application developed by another student</li>
       <li>Developing a new client-side application to work directly with existing CADC API's</li>
       <li>Deploying application builds on a CADC server</li>
@@ -22,4 +28,4 @@
 - company: USIC
   position: Utility Locator
   duration: Feb, 2017 &mdash; Sept, 2107
-  summary: Locating and mapping of underground utilities. I located utilites primarily for large construction projects. 
+  summary: Locating and mapping of underground utilities. I worked primarily for large construction projects, such as the Calgary ring road. I also built a small Java wrapper for our mapping software that provided keyboard shortcuts to our mapping software.
