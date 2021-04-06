@@ -1,6 +1,6 @@
 # Site settings
 title: "Richard Williams"
-description: "A resume template for Jekyll and GitHub Pages sites."
+description: "Resume for Richard Williams"
 
 # Build settings
 markdown: kramdown
@@ -20,10 +20,10 @@ resume_contact_email:           "richardlwilliams@protonmail.com"
 resume_contact_telephone:       "587 891 3521"
 resume_contact_address:         ""
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Richard Williams • 587 891 3521 • richardlwilliams@protonmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a fourth-year computer science student hoping to begin a career in software development.</p>"
+resume_header_intro: "<p>I am a fourth-year computer science student looking to begin a career in software Development.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

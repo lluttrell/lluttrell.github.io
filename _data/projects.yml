@@ -6,18 +6,25 @@
   role: Primary Developer
   duration: May, 2020 &mdash; Sept, 2020
   url: "https://projects.canfar.net/NGVS/NGVSmap/"
-  description: NGVS Map is an interactive tool for astronomical data visualization and retrieval. It is a single page application written with vanilla Javascript. 
+  description: NGVS Map is an interactive tool for astronomical data visualization and retrieval. It is a single page application written with vanilla Javascript, Leaflet.js and the Materialize css framework. It consumes an already existing CADC API by generating SQL GET queries. It is deployed on a virtual machine using nginx.
 
 # Inky
 - project: Inky.io
   role: Developer
   duration:  Sept, 2020 &mdash; Jan, 2021
   url: "https://github.com/justinf34/Inky.io"
-  description: Inky.io is an online pictionary-like game inspirted by skribble.io.
+  description: Inky.io is an online pictionary-like game inspired by skribble.io. It's a React application with a Node/Express backend and a Firestore database.
 
 # C-
 - project: C- compiler
   role: Developer
   duration: Jan, 2021 &mdash; April 2021
   # url: "#"
-  description: Developed a compiler for the C- programming language on the TINY virtual machine.
+  description: Compiler for the C- programming language on the TINY virtual machine.
+
+# C-
+- project: Ski Shop API
+  role: Developer
+  duration: Jan, 2020 &mdash; April 2020
+  # url: "#"
+  description: REST API for a fictional ski shop using ASP.NET core framework. 

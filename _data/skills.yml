@@ -1,11 +1,15 @@
 # Skills
-# Organizational leadership
-- skill: Programming Languages
-  description: I have serveral years of experience with Javascript, Java, Python and C. 
+# Language
+- skill: Languages
+  description: Javascript, Java, Python, C, SQL, HTML, CSS.  
 
-# Communications strategy
-- skill: Frameworks
-  description: I have some experience with 
+# Frameworks
+- skill: Frameworks and Tools
+  description: Express, Firebase, git, GitHub, jQuery, jUnit, LaTeX, Leaflet.js, Socket.io, React, mySQL, Node, Nginx, NumPy, Webpack  
+
+# Frameworks
+- skill: 
+  description:
 
 # Digital content development and creation
 # - skill: Digital content development and creation
