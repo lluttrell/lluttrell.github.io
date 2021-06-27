@@ -5,12 +5,4 @@
 
 # Frameworks
 - skill: Frameworks and Tools
-  description: Express, Firebase, git, GitHub, jQuery, jUnit, LaTeX, Leaflet.js, Socket.io, React, mySQL, Node, Nginx, NumPy, Webpack  
-
-# Frameworks
-- skill: 
-  description:
-
-# Digital content development and creation
-# - skill: Digital content development and creation
-#   description: Copy writing, graphic design, web design, front-end web development, print design
+  description: Express, Firebase, git, GitHub, jQuery, jUnit, LaTeX, Leaflet.js, Socket.io, React, mySQL, Node, Nginx, NumPy, Webpack
