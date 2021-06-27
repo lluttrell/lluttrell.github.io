@@ -15,9 +15,9 @@
   url: "https://github.com/justinf34/Inky.io"
   description: Inky.io is an online pictionary-like game inspired by skribble.io. It's a React application with a Node/Express backend and a Firestore database.
 
-# C-
-- project: Ski Shop API
-  role: Developer
-  duration: Jan, 2020 &mdash; April 2020
-  # url: "#"
-  description: REST API for a fictional ski shop using ASP.NET core framework. 
+# # C-
+# - project: Ski Shop API
+#   role: Developer
+#   duration: Jan, 2020 &mdash; April 2020
+#   # url: "#"
+#   description: REST API for a fictional ski shop using ASP.NET core framework. 
